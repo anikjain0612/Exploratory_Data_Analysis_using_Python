@@ -1,7 +1,4 @@
 # Experiment 4: Study of Tuples in Python
-## Title
-
-Study of Tuples in Python
 
 ## Aim
 
