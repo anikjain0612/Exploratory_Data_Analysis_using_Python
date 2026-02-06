@@ -12,7 +12,7 @@ To understand Python lists and perform operations such as indexing, slicing, and
 - To understand mutable nature of lists
 - To perform list traversal and modification
 
-**Theory**
+## **Theory**
 
 **1\. Introduction to Lists**
 
