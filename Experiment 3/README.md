@@ -1,4 +1,4 @@
-# Experiment 3 - Lists in Python: Indexing, Slicing, and List Methods
+# Experiment 3: Study of List and Various Operations
 
 ## ****Aim****
 
