@@ -1,8 +1,4 @@
-# **Experiment 5: To study Sets and Dictionaries in Python**
-
-## **Title**
-
-**Implementation of Set and Dictionary in Python**
+# **Experiment 5: Implementation of Set and Dictionary in Python**
 
 ## **Aim**
 
